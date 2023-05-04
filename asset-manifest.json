@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3e1c2c12.css",
-    "main.js": "/static/js/main.d073c270.js",
+    "main.js": "/static/js/main.7fbe368e.js",
     "static/js/787.c44c5cce.chunk.js": "/static/js/787.c44c5cce.chunk.js",
     "static/media/roof.png": "/static/media/roof.bf838926f891586eb364.png",
     "static/media/dcpanel.png": "/static/media/dcpanel.e3f319f822b9afdc537a.png",
@@ -12,12 +12,6 @@
     "static/media/solarPractical.png": "/static/media/solarPractical.3a07f83060dc0a11a813.png",
     "static/media/hydro.png": "/static/media/hydro.f4f418e444c20d7b2316.png",
     "static/media/main.jpg": "/static/media/main.6b8d96573228f7910a26.jpg",
-    "static/media/battery6.png": "/static/media/battery6.40cd552684a9927fb714.png",
-    "static/media/battery5.png": "/static/media/battery5.241a7782c5f0a5900c6a.png",
-    "static/media/battery2.png": "/static/media/battery2.822fa646f807f91e1d5b.png",
-    "static/media/battery3.png": "/static/media/battery3.5dfaf0a037f93650c5a6.png",
-    "static/media/battery4.png": "/static/media/battery4.107a80edcacb31b7e7a8.png",
-    "static/media/battery1.png": "/static/media/battery1.50160ba8af9224491aec.png",
     "static/media/solar.png": "/static/media/solar.b81aebf88d68a3ecc25d.png",
     "static/media/car.png": "/static/media/car.6729b10e28628d393edc.png",
     "static/media/panel.jpg": "/static/media/panel.b9b663c1106739bae958.jpg",
@@ -28,6 +22,18 @@
     "static/media/cfl.png": "/static/media/cfl.b0b78d4873699114f808.png",
     "static/media/sun.png": "/static/media/sun.986926f784af92682555.png",
     "static/media/logo.png": "/static/media/logo.8d6c48469e95f5e7482e.png",
+    "static/media/battery10.png": "/static/media/battery10.38aa4fd0c315297904c4.png",
+    "static/media/battery11.png": "/static/media/battery11.a81c4a530d0654dbf810.png",
+    "static/media/battery12.png": "/static/media/battery12.0d7dfd8dd37bb984718a.png",
+    "static/media/battery1.png": "/static/media/battery1.4786752cc97aa3ecf212.png",
+    "static/media/battery3.png": "/static/media/battery3.3d593cb5ab327cd2dfd1.png",
+    "static/media/battery2.png": "/static/media/battery2.5fc3865141e8fa4e1538.png",
+    "static/media/battery5.png": "/static/media/battery5.1d9e040d2d6d1b4241b9.png",
+    "static/media/battery4.png": "/static/media/battery4.d6bbf5304e7950923a10.png",
+    "static/media/battery7.png": "/static/media/battery7.36b6eea82a03c4d6fb77.png",
+    "static/media/battery6.png": "/static/media/battery6.ccdf3f4b84f0645c1153.png",
+    "static/media/battery9.png": "/static/media/battery9.ae3dcf6387055a3214ac.png",
+    "static/media/battery8.png": "/static/media/battery8.fc017a4f7c934a9d1bbf.png",
     "static/media/solarpv.jpg": "/static/media/solarpv.be0c4a5af297437e099f.jpg",
     "static/media/inverter.jpg": "/static/media/inverter.5f5deced9457700ec4c8.jpg",
     "static/media/led.png": "/static/media/led.f73ec82092f760983fb0.png",
@@ -42,11 +48,11 @@
     "static/media/rays.PNG": "/static/media/rays.e26f23bd4399aceff30b.PNG",
     "index.html": "/index.html",
     "main.3e1c2c12.css.map": "/static/css/main.3e1c2c12.css.map",
-    "main.d073c270.js.map": "/static/js/main.d073c270.js.map",
+    "main.7fbe368e.js.map": "/static/js/main.7fbe368e.js.map",
     "787.c44c5cce.chunk.js.map": "/static/js/787.c44c5cce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e1c2c12.css",
-    "static/js/main.d073c270.js"
+    "static/js/main.7fbe368e.js"
   ]
 }
