@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5672a267.css",
-    "main.js": "/static/js/main.994fb18b.js",
+    "main.css": "/static/css/main.8c6f67c4.css",
+    "main.js": "/static/js/main.a7a90927.js",
     "static/js/787.c44c5cce.chunk.js": "/static/js/787.c44c5cce.chunk.js",
     "static/media/far.gif": "/static/media/far.1560de6ce4baf1fd58dd.gif",
     "static/media/car.png": "/static/media/car.ffc5a56244add6bc1bf3.png",
+    "static/media/buffer.png": "/static/media/buffer.6ce6a155f2517409245b.png",
     "static/media/Bonnet.png": "/static/media/Bonnet.5fc5be6691160fdae1d1.png",
-    "static/media/FrontMirror.png": "/static/media/FrontMirror.fb87a24fcfb3ec60cb73.png",
+    "static/media/frontDoor.png": "/static/media/frontDoor.8ac82bef9760fd537639.png",
+    "static/media/rearDoor.png": "/static/media/rearDoor.58ce01c927fc428a3064.png",
     "index.html": "/index.html",
-    "main.5672a267.css.map": "/static/css/main.5672a267.css.map",
-    "main.994fb18b.js.map": "/static/js/main.994fb18b.js.map",
+    "main.8c6f67c4.css.map": "/static/css/main.8c6f67c4.css.map",
+    "main.a7a90927.js.map": "/static/js/main.a7a90927.js.map",
     "787.c44c5cce.chunk.js.map": "/static/js/787.c44c5cce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5672a267.css",
-    "static/js/main.994fb18b.js"
+    "static/css/main.8c6f67c4.css",
+    "static/js/main.a7a90927.js"
   ]
 }
